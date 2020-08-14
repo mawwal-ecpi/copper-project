@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mawwal-ecpi/copper-project/static/css/main.407b71c2.chunk.css",
+    "main.js": "/mawwal-ecpi/copper-project/static/js/main.51f99cad.chunk.js",
+    "main.js.map": "/mawwal-ecpi/copper-project/static/js/main.51f99cad.chunk.js.map",
+    "runtime-main.js": "/mawwal-ecpi/copper-project/static/js/runtime-main.596b36dc.js",
+    "runtime-main.js.map": "/mawwal-ecpi/copper-project/static/js/runtime-main.596b36dc.js.map",
+    "static/js/2.3d614f6e.chunk.js": "/mawwal-ecpi/copper-project/static/js/2.3d614f6e.chunk.js",
+    "static/js/2.3d614f6e.chunk.js.map": "/mawwal-ecpi/copper-project/static/js/2.3d614f6e.chunk.js.map",
+    "index.html": "/mawwal-ecpi/copper-project/index.html",
+    "precache-manifest.20b5c4a4bcc3a8151225b3aa16fb598d.js": "/mawwal-ecpi/copper-project/precache-manifest.20b5c4a4bcc3a8151225b3aa16fb598d.js",
+    "service-worker.js": "/mawwal-ecpi/copper-project/service-worker.js",
+    "static/css/main.407b71c2.chunk.css.map": "/mawwal-ecpi/copper-project/static/css/main.407b71c2.chunk.css.map",
+    "static/js/2.3d614f6e.chunk.js.LICENSE.txt": "/mawwal-ecpi/copper-project/static/js/2.3d614f6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.596b36dc.js",
+    "static/js/2.3d614f6e.chunk.js",
+    "static/css/main.407b71c2.chunk.css",
+    "static/js/main.51f99cad.chunk.js"
+  ]
+}
